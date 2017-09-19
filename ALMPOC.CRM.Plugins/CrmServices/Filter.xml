@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<filter>
+  <entities>
+    <!-- Specify all the entities which will be used in code. No entries will generate all entities -->
+    <entity>account</entity>
+    <entity>contact</entity>
+  </entities>
+  <optionsets generate="true">
+    <!-- Specify all the optionsets which will be used in code. No entries will generate all optionsets (if [generate=true]) -->
+    <optionset>account_customertypecode</optionset>
+  </optionsets>
+</filter>
