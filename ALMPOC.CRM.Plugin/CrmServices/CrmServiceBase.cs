@@ -11,10 +11,10 @@ using Microsoft.Xrm.Sdk;
 using Microsoft.Xrm.Sdk.Discovery;
 using Microsoft.Xrm.Sdk.Client;
 
-using Niko.Plugin.CrmServices.XrmSdk;
-using Niko.Plugin.Helpers;
+using ALMPOC.CRM.Plugins.CrmServices.XrmSdk;
+using ALMPOC.CRM.Plugins.Helpers;
 
-namespace Niko.Plugin.CrmServices
+namespace ALMPOC.CRM.Plugins.CrmServices
 {
     public abstract class CrmServiceBase
     {

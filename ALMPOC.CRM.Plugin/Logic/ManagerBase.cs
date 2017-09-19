@@ -8,12 +8,12 @@ using System.Text;
 using Microsoft.Xrm.Sdk;
 using Microsoft.Xrm.Sdk.Query;
 
-using Niko.Plugin.Helpers;
-using Niko.Plugin.CrmServices;
+using ALMPOC.CRM.Plugins.Helpers;
+using ALMPOC.CRM.Plugins.CrmServices;
 using Microsoft.Xrm.Sdk.Messages;
 using Microsoft.Xrm.Sdk.Metadata;
 
-namespace Niko.Plugin.Logic
+namespace ALMPOC.CRM.Plugins.Logic
 {
     /// <summary>
     /// Contains methods which are specific for the current CRM Organization

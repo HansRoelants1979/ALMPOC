@@ -9,9 +9,9 @@ using Microsoft.Xrm.Sdk.Query;
 using Microsoft.Xrm.Sdk.Messages;
 using Microsoft.Crm.Sdk.Messages;
 
-using Niko.Plugin.Helpers;
+using ALMPOC.CRM.Plugins.Helpers;
 
-namespace Niko.Plugin.CrmServices
+namespace ALMPOC.CRM.Plugins.CrmServices
 {
     /// <summary>
     /// Contains methods which can be used on every CRM Organization

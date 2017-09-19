@@ -1,5 +1,5 @@
 ﻿using System;
-using Niko.Plugin.Helpers;
+using ALMPOC.CRM.Plugins.Helpers;
 
 /// <summary>
 /// Use this attribute to specify the registration information in MS CRM. You can use this in conjunction with the "ValidateExecutionContext"-method to automatically validate the execution context

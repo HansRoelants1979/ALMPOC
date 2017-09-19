@@ -5,7 +5,7 @@ using System.Text;
 using System.Xml.Serialization;
 using System.Xml;
 
-namespace Niko.Plugin.Helpers
+namespace ALMPOC.CRM.Plugins.Helpers
 {
     public class PluginSettings
     {

@@ -10,7 +10,7 @@
 
 [assembly: Microsoft.Xrm.Sdk.Client.ProxyTypesAssemblyAttribute()]
 
-namespace Niko.Plugin.CrmServices.XrmSdk
+namespace ALMPOC.CRM.Plugins.CrmServices.XrmSdk
 {
     [System.Runtime.Serialization.DataContractAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("CrmSvcUtil", "5.0.9688.42")]
@@ -2034,14 +2034,14 @@ namespace Niko.Plugin.CrmServices.XrmSdk
         /// Status of the account.
         /// </summary>
         [Microsoft.Xrm.Sdk.AttributeLogicalNameAttribute("statecode")]
-        public System.Nullable<Niko.Plugin.CrmServices.XrmSdk.AccountState> StateCode
+        public System.Nullable<ALMPOC.CRM.Plugins.CrmServices.XrmSdk.AccountState> StateCode
         {
             get
             {
                 Microsoft.Xrm.Sdk.OptionSetValue optionSet = this.GetAttributeValue<Microsoft.Xrm.Sdk.OptionSetValue>("statecode");
                 if ((optionSet != null))
                 {
-                    return ((Niko.Plugin.CrmServices.XrmSdk.AccountState)(System.Enum.ToObject(typeof(Niko.Plugin.CrmServices.XrmSdk.AccountState), optionSet.Value)));
+                    return ((ALMPOC.CRM.Plugins.CrmServices.XrmSdk.AccountState)(System.Enum.ToObject(typeof(ALMPOC.CRM.Plugins.CrmServices.XrmSdk.AccountState), optionSet.Value)));
                 }
                 else
                 {
@@ -2313,13 +2313,13 @@ namespace Niko.Plugin.CrmServices.XrmSdk
         }
 
         /// <summary>
-        /// Gets a binding to the set of all <see cref="Niko.Plugin.CrmServices.XrmSdk.Account"/> entities.
+        /// Gets a binding to the set of all <see cref="ALMPOC.CRM.Plugins.CrmServices.XrmSdk.Account"/> entities.
         /// </summary>
-        public System.Linq.IQueryable<Niko.Plugin.CrmServices.XrmSdk.Account> AccountSet
+        public System.Linq.IQueryable<ALMPOC.CRM.Plugins.CrmServices.XrmSdk.Account> AccountSet
         {
             get
             {
-                return this.CreateQuery<Niko.Plugin.CrmServices.XrmSdk.Account>();
+                return this.CreateQuery<ALMPOC.CRM.Plugins.CrmServices.XrmSdk.Account>();
             }
         }
     }

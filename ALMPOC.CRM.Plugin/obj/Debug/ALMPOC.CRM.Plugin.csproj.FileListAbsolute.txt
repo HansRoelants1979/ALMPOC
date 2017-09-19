@@ -1,0 +1,12 @@
+D:\Development\Test\ALMPOC\ALMPOC.CRM.Plugin\obj\Debug\ALMPOC.CRM.Plugin.csprojResolveAssemblyReference.cache
+D:\Development\Test\ALMPOC\ALMPOC.CRM.Plugin\obj\Debug\ALMPOC.CRM.Plugin.Resources.Translations.resources
+D:\Development\Test\ALMPOC\ALMPOC.CRM.Plugin\obj\Debug\ALMPOC.CRM.Plugin.csproj.GenerateResource.Cache
+D:\Development\Test\ALMPOC\ALMPOC.CRM.Plugin\bin\Debug\ALMPOC.CRM.Plugin.dll
+D:\Development\Test\ALMPOC\ALMPOC.CRM.Plugin\bin\Debug\ALMPOC.CRM.Plugin.pdb
+D:\Development\Test\ALMPOC\ALMPOC.CRM.Plugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Development\Test\ALMPOC\ALMPOC.CRM.Plugin\bin\Debug\Microsoft.IdentityModel.dll
+D:\Development\Test\ALMPOC\ALMPOC.CRM.Plugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Development\Test\ALMPOC\ALMPOC.CRM.Plugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\Development\Test\ALMPOC\ALMPOC.CRM.Plugin\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\Development\Test\ALMPOC\ALMPOC.CRM.Plugin\obj\Debug\ALMPOC.CRM.Plugin.dll
+D:\Development\Test\ALMPOC\ALMPOC.CRM.Plugin\obj\Debug\ALMPOC.CRM.Plugin.pdb

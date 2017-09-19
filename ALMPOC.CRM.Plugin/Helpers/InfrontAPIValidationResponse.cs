@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Niko.Plugin.Helpers
+namespace ALMPOC.CRM.Plugins.Helpers
 {
     public class InfrontAPIValidationResponse
     {

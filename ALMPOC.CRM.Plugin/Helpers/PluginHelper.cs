@@ -25,7 +25,7 @@ using Microsoft.Xrm.Sdk;
 using Microsoft.Xrm.Sdk.Messages;
 using Microsoft.Xrm.Sdk.Metadata;
 
-namespace Niko.Plugin.Helpers
+namespace ALMPOC.CRM.Plugins.Helpers
 {
     /// <summary>
     /// Class created to serialize the IPluginExecutionContext

@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Niko.Plugin.Helpers
+namespace ALMPOC.CRM.Plugins.Helpers
 {
     public static class CrmEntityExtensions
     {

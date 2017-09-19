@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Niko.Plugin.Helpers
+namespace ALMPOC.CRM.Plugins.Helpers
 {
     /// <summary> 
     /// Used to parse the Dynamics CRM 'Record Url (Dynamic)' that can be created by workflows and dialogs 

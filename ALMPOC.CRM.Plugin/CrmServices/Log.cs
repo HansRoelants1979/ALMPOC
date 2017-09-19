@@ -10,9 +10,9 @@ using System.Runtime.Serialization.Json;
 
 using Microsoft.Xrm.Sdk;
 
-using Niko.Plugin.Helpers;
+using ALMPOC.CRM.Plugins.Helpers;
 
-namespace Niko.Plugin.CrmServices
+namespace ALMPOC.CRM.Plugins.CrmServices
 {
     /// <summary>
     /// Provides methods for creating Log records in a seperate datastore. Usage of this class requires the "LoggingConfiguration"-entity

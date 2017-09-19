@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Niko.Plugin.Logic
+namespace ALMPOC.CRM.Plugins.Logic
 {
     public class AccountManager:ManagerBase
     {

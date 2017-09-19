@@ -9,7 +9,7 @@ using System.Resources;
 
 using Microsoft.Xrm.Sdk;
 
-namespace Niko.Plugin.Helpers
+namespace ALMPOC.CRM.Plugins.Helpers
 {
     public static class CrmSdkHelper
     {
@@ -48,7 +48,7 @@ namespace Niko.Plugin.Helpers
         /// <returns></returns>
         public static string Translate(string message, CultureInfo cultureInfo, string[] data)
         {
-            ResourceManager resourceManager = new ResourceManager("Niko.Plugin.Resources.Translations", Assembly.GetExecutingAssembly());
+            ResourceManager resourceManager = new ResourceManager("ALMPOC.CRM.Plugins.Resources.Translations", Assembly.GetExecutingAssembly());
             try
             {
                 string errorMessage = resourceManager.GetString(message + "_" + cultureInfo.TwoLetterISOLanguageName);
